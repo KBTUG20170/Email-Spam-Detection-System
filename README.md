@@ -7,3 +7,7 @@ This repo includes Jupyter notebooks for scraping a collection of emails from va
 ## Usage
 
 Add a file named `credentials.json`, containing the API Key for GMail, obtained from the GCP Developer Console and run the cells in the notebooks.
+
+## Video
+
+https://drive.google.com/file/d/1C8etuvQonaRUM8S_WS7ubhn3ENngqjWV/view?usp=drive_link
